@@ -25,19 +25,19 @@ export default function Resume() {
                 ></path>
               </svg>
             </span>
-            <h3 class="flex items-center mb-1 text-lg font-semibold  text-white ml-28">
-              AWS Cloud Practioner
+            <h3 class="mb-1 text-lg font-semibold text-white">
+            Bachelor's degree
             </h3>
             <time class="block pt-1 pb-3  text-sm font-normal leading-none  text-gray-500">
-              Completed on July 7th, 2023
+            In Progress (since July 2023)
             </time>
             <p class="mb-4 text-base font-normal  text-gray-400">
-              Provides overall understanding of cloud computing concepts,
-              independent of specific technical roles. It provides a detailed
-              overview of cloud concepts, AWS core services, security,
-              architecture, pricing, and support.
+            Bachelor of Industrial Technology in
+            Electronice Technology Computer from King
+            Mongkut 's University of Technology North
+            Bangkok, Bangkok, GPAX : 3.12
             </p>
-            <a
+            {/* <a
               href="https://www.credly.com/badges/bf6b9024-d4f8-465d-b345-d9b0c5a7abab/public_url"
               target="_blank"
               rel="noreferrer"
@@ -56,7 +56,7 @@ export default function Resume() {
                 ></path>
               </svg>{" "}
               Download Certificate
-            </a>
+            </a> */}
           </li>
           <li class="mb-10" data-aos="zoom-out" data-aos-delay="700">
             <span class="absolute flex items-center justify-center w-6 h-6 rounded-full -left-3 ring-8 ring-gray-900 bg-blue-900">
@@ -75,17 +75,17 @@ export default function Resume() {
               </svg>
             </span>
             <h3 class="mb-1 text-lg font-semibold text-white">
-              BackEnd Development and Apis
+            Advanced Vocational Certificate
             </h3>
             <time class="block mb-2 text-sm font-normal leading-none text-gray-500">
-              Completed on May 28th, 2022
+              Completed on March 7, 2023
             </time>
             <p class="text-base font-normal text-gray-400">
-              Learned how to write back end apps with Node.js and npm. I also
-              built web applications with the Express framework, and build some
-              mini-projects
+            Hing Vocational Certificate geaduate in
+            Information Technology form Saraburi Technical
+            College, Saraburi, GPAX : 3.39
             </p>
-            <a
+            {/* <a
               href="https://www.freecodecamp.org/certification/Daniel_Jebarson/back-end-development-and-apis"
               target="_blank"
               rel="noreferrer"
@@ -104,7 +104,7 @@ export default function Resume() {
                 ></path>
               </svg>{" "}
               Download Certificate
-            </a>
+            </a> */}
           </li>
           <li data-aos="zoom-in" data-aos-offset={"-15"} data-aos-delay="1300">
             <span class="absolute flex items-center justify-center w-6 h-6 rounded-full -left-3 ring-8 ring-gray-900 bg-blue-900">
@@ -123,19 +123,17 @@ export default function Resume() {
               </svg>
             </span>
             <h3 class="mb-1 text-lg font-semibold text-white">
-              Frontend Development Libraries
+            Vocational Certificate
             </h3>
             <time class="block mb-2 text-sm font-normal leading-none text-gray-500">
-              Completed on December 9, 2022
+              Completed on March 30, 2021
             </time>
             <p class="text-base font-normal text-gray-400">
-              Learns how to style your site quickly with Bootstrap. I also learn
-              how to add logic to your CSS styles and extend them with Sass.
-              Later, I also built a shopping cart and other applications to
-              learn how to create powerful Single Page Applications (SPAs) with
-              React and Redux.
+            Vocational Certificate geaduate in Information
+            Technology form Saraburi Technical College,
+            Saraburi, GPAX : 3.18
             </p>
-            <a
+            {/* <a
               target="_blank"
               rel="noreferrer"
               href="https://www.freecodecamp.org/certification/Daniel_Jebarson/front-end-development-libraries"
@@ -154,7 +152,7 @@ export default function Resume() {
                 ></path>
               </svg>{" "}
               Download Certificate
-            </a>
+            </a> */}
           </li>
         </ol>
 

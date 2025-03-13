@@ -38,7 +38,7 @@ export default function Home() {
           options={{
             strings: [
               "✋I'm Nitipoom",
-              "I'm student ai KMUTNB",
+              "I'm student at KMUTNB",
               // "🌐developer",
               // "I'm a 4th yr CSE 👨‍🎓 in VIT Vellore",
               // "You can 📲 me through discord or ✉️",
