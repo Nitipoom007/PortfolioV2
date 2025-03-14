@@ -12,7 +12,7 @@ export default function Projects() {
         data-aos={"slide-up"}
         data-aos-duration={"700"}
       >
-        Projects
+        Certificate
       </div>
       <div className="flex flex-wrap flex-row justify-center w-full p-4 gap-12">
         {projects.map((project, ind) => {

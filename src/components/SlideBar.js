@@ -101,7 +101,7 @@ export default function Slidebar() {
               scroll("projects");
             }}
           >
-            <p title="Projects"> Projects</p>
+            <p title="Projects"> Certificate</p>
           </NavLink>
         </p>
         <p

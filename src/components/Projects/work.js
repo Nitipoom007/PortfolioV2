@@ -18,7 +18,7 @@ export default function work({ title, desc, tags, link, code, img }) {
               alt={title}
               className="w-full h-full max-h-[200px] min-h-[200px] rounded-[10px] object-cover border-[1px] border-secondary"
             />
-            <div className="absolute inset-0 flex justify-end m-3 ">
+            {/* <div className="absolute inset-0 flex justify-end m-3 ">
               <div
                 onClick={() => window.open(link, "_blank")}
                 className="bg-slate-800 w-9 h-9 rounded-full border-[1px] border-secondary flex items-center justify-center cursor-pointer mr-2"
@@ -39,7 +39,7 @@ export default function work({ title, desc, tags, link, code, img }) {
                   className="w-3/5 h-3/5 lg:w-4/5 lg:h-4/5 object-contain"
                 />
               </div>
-            </div>
+            </div> */}
           </div>
           <div className="mt-5">
             <h3 className="text-white font-bold text-[20px] lg:text-[24px]">

@@ -227,7 +227,7 @@ export default function Contact() {
                 }
               >
                 {" "}
-                <LinkedInIcon className="cursor-pointer hover:scale-105" />
+                {/* <LinkedInIcon className="cursor-pointer hover:scale-105" />
               </div>
               <div
                 title="Facebook"
@@ -237,7 +237,7 @@ export default function Contact() {
                     "_blank"
                   )
                 }
-              >
+              > */}
                 <FacebookIcon className="cursor-pointer hover:scale-105" />
               </div>{" "}
             </div>
