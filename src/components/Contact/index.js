@@ -200,7 +200,7 @@ export default function Contact() {
               <div
                 title="Github"
                 onClick={() =>
-                  window.open("https://github.com/daniel-jebarson", "_blank")
+                  window.open("https://github.com/Nitipoom007", "_blank")
                 }
               >
                 <GitHubIcon className="cursor-pointer hover:scale-105" />
@@ -209,7 +209,7 @@ export default function Contact() {
                 title="Instagram"
                 onClick={() =>
                   window.open(
-                    "https://www.instagram.com/daniel_diago2003",
+                    "https://www.instagram.com/ntp___00/",
                     "_blank"
                   )
                 }
@@ -217,7 +217,7 @@ export default function Contact() {
                 {" "}
                 <InstagramIcon className="cursor-pointer hover:scale-105" />
               </div>
-              <div
+              {/* <div
                 title="Linkedin"
                 onClick={() =>
                   window.open(
@@ -227,25 +227,25 @@ export default function Contact() {
                 }
               >
                 {" "}
-                {/* <LinkedInIcon className="cursor-pointer hover:scale-105" />
-              </div>
+                <LinkedInIcon className="cursor-pointer hover:scale-105" />
+              </div> */}
               <div
                 title="Facebook"
                 onClick={() =>
                   window.open(
-                    "https://www.facebook.com/daniel.jebarson.9",
+                    "https://www.facebook.com/hor.nitipoom",
                     "_blank"
                   )
                 }
-              > */}
+              >
                 <FacebookIcon className="cursor-pointer hover:scale-105" />
               </div>{" "}
             </div>
-            <div className="mt-6 italic text-sm font-medium text-blue-500 ">
+            {/* <div className="mt-6 italic text-sm font-medium text-blue-500 ">
               <span className=" pl-1 ">Copyright</span>
               <CopyrightIcon className="cursor-pointer mx-1" />
-              <span>2023 Daniel Jebarson K</span>
-            </div>
+              <span>Nitipoom Gongfu</span>
+            </div> */}
           </div>
         </div>
         <ToastContainer

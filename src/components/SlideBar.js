@@ -130,7 +130,7 @@ export default function Slidebar() {
         <div
           title="Github"
           onClick={() =>
-            window.open("https://github.com/daniel-jebarson", "_blank")
+            window.open("https://github.com/Nitipoom007", "_blank")
           }
         >
           <GitHubIcon className="cursor-pointer hover:scale-105" />
@@ -138,13 +138,13 @@ export default function Slidebar() {
         <div
           title="Instagram"
           onClick={() =>
-            window.open("https://www.instagram.com/daniel_diago2003", "_blank")
+            window.open("https://www.instagram.com/ntp___00/", "_blank")
           }
         >
           {" "}
           <InstagramIcon className="cursor-pointer hover:scale-105" />
         </div>
-        <div
+        {/* <div
           title="Linkedin"
           onClick={() =>
             window.open(
@@ -155,11 +155,11 @@ export default function Slidebar() {
         >
           {" "}
           <LinkedInIcon className="cursor-pointer hover:scale-105" />
-        </div>
+        </div> */}
         <div
           title="Facebook"
           onClick={() =>
-            window.open("https://www.facebook.com/daniel.jebarson.9", "_blank")
+            window.open("https://www.facebook.com/hor.nitipoom", "_blank")
           }
         >
           <FacebookIcon className="cursor-pointer hover:scale-105" />
